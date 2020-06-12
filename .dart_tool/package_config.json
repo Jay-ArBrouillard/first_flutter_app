@@ -56,6 +56,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "english_words",
+      "rootUri": "file:///Users/jay-ar.brouillard/Development/flutter/.pub-cache/hosted/pub.dartlang.org/english_words-3.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "1.22"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/jay-ar.brouillard/Development/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-06-11T04:15:57.298661Z",
+  "generated": "2020-06-12T00:57:17.240091Z",
   "generator": "pub",
   "generatorVersion": "2.8.4"
 }
