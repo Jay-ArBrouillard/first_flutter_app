@@ -1,16 +1,7 @@
 # first_flutter_app
 
-A new Flutter project.
+Generates random sets of word pairs from the English Words Dart API (https://pub.dev/packages/english_words) and displays them in a list view. Can click on words to add or remove them from a favorites list.
 
-## Getting Started
+![Main Page](https://github.com/ay-ArBrouillard/first_flutter_app/blob/master/MainScreen.jpg?raw=true)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Main Page](https://github.com/ay-ArBrouillard/first_flutter_app/blob/master/FavoritesScreen.jpg?raw=true)
